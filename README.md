@@ -1,7 +1,5 @@
 # Sneha A H - Full Stack Developer Portfolio
 
-![Portfolio Preview](images/profile.jpeg)
-
 ## About Me
 Hello! I'm **Sneha A H**, a motivated 3rd-year Computer Science student at Government Engineering College (GEC).  
 I specialize in **full-stack development** and software engineering, combining a strong foundation in **C, Python, and Java** with modern web technologies such as **React JS, HTML, CSS, and JavaScript**.
